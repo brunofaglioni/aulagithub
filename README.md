@@ -2,10 +2,10 @@ Titulo principal do meu READ ME
 
 Descrição inicial do meu READ ME
 
-## Subtitulo
+## Agro e Tecnologia
 
-O Palmeiras não tem mundial!!!
+O Agro na atualidade esta virando Agrotec
 
-## Para que serve esse arquivo?
+## A Tecnologia mundando o campo
 
-Este arquivo serve para mostrar ao Palmeirenses que eles não tem mundial
+Quanto mais se investir em tecnologia no setor Agro, mais produtividade e menas perca no campo
